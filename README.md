@@ -37,7 +37,7 @@ WATCH THIS SPACE - This is just a snippet of what I will be covering in my time 
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
 #### Cranfield University (Oct 2005 to Sept 2006)
