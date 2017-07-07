@@ -8,22 +8,16 @@ I am a curious and deep-thinking individual who is enthused by learning (both my
 
 #### Communication
 
-I have very strong verbal and non-verbal communication skills, developed and refined over many years in teaching.
-
-- Confident public speaker, with the ability to adapt language and approach to best connect with audience.
-- I have spoken and communicated with a range of different stakeholders; from school governors, parents and external bodies/visitors.
+I have very strong verbal and non-verbal communication skills, developed over many years in teaching and refined during my time at Makers. I can communicate my ideas and thought processes in an effective way, but also accept other methods of finding a solution. This was incredibly useful when pair programming. During group projects, we made use of tools such as Slack, stand-ups and retros to communicate progress, successes and blockers.
 
 #### Time Management and Planning
 
-Due to the nature of my previous jobs I have had to constantly work to deadlines to ensure that I am fulfilling my role.
+Due to the nature of my previous roles I have had to constantly work to deadlines to ensure that I am fulfilling my role. Most recently, I have used resources such as trello and waffle.io to facilitate tracking issues/tasks during projects, but also getting weekend challenges finished for the Monday morning pull request deadline whilst balancing a personal life.
 
-- Ensuring that exam entires and coursework was assessed and submitted in a timely manner for students to be awarded qualifications.
-- Plan and deliver the curriculum across the whole school over a period of an academic year.
 
 #### Critical Thinking
 
-- In my roles as a Head of Department, and as a Section 2ic in the Reserve Forces (Army) I have had to learn to prioritise tasks and make decisions based on the information at hand.
-- This can also be evidenced through the management of departmental finances to ensure the best value is sought without compromising the integrity of the education delivered to students.
+Whilst at Makers Academy this discussion, decision making and coaching centred on finding creative ways to find a solution or a more effective and elegant way to refactor code produced. In my roles as a Head of Department, and as a Section 2ic in the Reserve Forces (Army) I had to prioritise tasks and make decisions based on the information at hand. An example would be the management of departmental finances to ensure the best value is sought without compromising the integrity of the education delivered to students.
 
 ## Education
 
@@ -53,11 +47,9 @@ Thesis: SLAM: Simultaneous Location and Mapping.
 
 #### *BSc(hons) Marine Environmental Science*
 
-Foundation of study in a number of areas of Science including:
-  * Oceanography, Geology, Environmental Science, Marine Biology, Ecology.
+Foundation of study in a number of areas of Science including Oceanography, Geology, Environmental Science, Marine Biology, Ecology.
 
 Thesis: Development and production of a budget CDT (Conductivity, Depth and Temperature) sensor.
-
 
 
 ### Other qualifications
