@@ -1,4 +1,6 @@
-## Dominic McDonnell      [Education](#education) | [Experience](#experience) | [Skills](#skills)
+## Dominic McDonnell      
+
+[Education](#education) | [Experience](#experience) | [Skills](#skills)
 
 I am a curious and deep-thinking individual who is enthused by learning (both my own and others), science, technology and sport. I have achieved a number of things both personally and professionally, but my greatest achievement is that I have facilitated the learning of hundreds of young people in my time as teacher. I am currently focussing on my own learning as a Junior Developer. With the 'tool-box' of skills, knowledge, TDD and AGILE practices from Makers I am keen to take up new role.
 
@@ -36,7 +38,9 @@ WATCH THIS SPACE - This is just a snippet of what I will be covering in my time 
 - Ruby, Rails, JavaScript, Node.js
 - Rspec, Jasmine
 
+
 #### Cranfield University (Oct 2005 to Sept 2006)
+
 #### *MSc in Offshore and Ocean Technology, specialising in Diving and Underwater Technology*
 
 Modules ranged from Renewable Energy, Integrity Monitoring and Project Management to Underwater Vehicles, Optics, Acoustics and Control.
@@ -44,13 +48,17 @@ Modules ranged from Renewable Energy, Integrity Monitoring and Project Managemen
 Thesis: SLAM: Simultaneous Location and Mapping.
   - This project was a precursor to course correction by recognising navigational waypoints for AUVs.
 
+
 #### University of Portsmouth (Sept 2002 to June 2005)
+
 #### *BSc(hons) Marine Environmental Science*
 
 Foundation of study in a number of areas of Science including:
-  * Oceanography, Geology, Envionmental Science, Marine Biology, Ecology.
+  * Oceanography, Geology, Environmental Science, Marine Biology, Ecology.
 
-Thesis: Development and production of a budget CDT (Conductivity, Depth and Temperture) sensor.
+Thesis: Development and production of a budget CDT (Conductivity, Depth and Temperature) sensor.
+
+
 
 ### Other qualifications
 
@@ -59,6 +67,7 @@ Thesis: Development and production of a budget CDT (Conductivity, Depth and Temp
 
 #### Basic Expedition Leader (Lvl 3 qual) - Sports Leaders UK
 - This award was gained as pre-requisite to lead groups outdoors as part of the Duke of Edinburgh Award.
+
 
 ## Experience
 
