@@ -1,5 +1,4 @@
-## Dominic McDonnell
-[Education](#education) | [Experience](#experience) | [Skills](#skills)
+## Dominic McDonnell      [Education](#education) | [Experience](#experience) | [Skills](#skills)
 
 I am a curious and deep-thinking individual who is enthused by learning (both my own and others), science, technology and sport. I have achieved a number of things both personally and professionally, but my greatest achievement is that I have facilitated the learning of hundreds of young people in my time as teacher. I am currently focussing on my own learning as a Junior Developer. With the 'tool-box' of skills, knowledge, TDD and AGILE practices from Makers I am keen to take up new role.
 
@@ -11,7 +10,6 @@ I have very strong verbal and non-verbal communication skills, developed and ref
 
 - Confident public speaker, with the ability to adapt language and approach to best connect with audience.
 - I have spoken and communicated with a range of different stakeholders; from school governors, parents and external bodies/visitors.
-- I am also very comfortable communicating with the public, as was a large part of my role when working in security with the Army Reserves at the 2012 London Olympics.
 
 #### Time Management and Planning
 
