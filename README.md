@@ -5,7 +5,7 @@ I am a curious and deep-thinking individual who is enthused by education/learnin
 
 After helping so many others, I am now focusing on my own learning journey by grasping the unique opportunity to attend Makers Academy and undertake the ultimate upskill in my own knowledge and skills. With the 'tool-box' of skills, knowledge and Test Driven Development from Makers I am keen to embark on a new career in the tech industry.
 
-## Transferrable ## Skills
+## Skills
 
 #### Communication
 
@@ -29,7 +29,7 @@ Due to the nature of my previous jobs I have had to constantly work to deadlines
 - In my roles as a Head of Department, and as a Section 2ic in the Reserve Forces (Army) I have had to learn to prioritise tasks and make decisions based on the information at hand.
 - This can also be evidenced through the management of departmental finances to ensure the best value is sought without compromising the integrity of the education delivered to students.
 
-## Experience
+## Education
 
 #### Makers Academy (May 2017 to July 2017)
 
