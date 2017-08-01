@@ -36,10 +36,11 @@ From my time at Makers Academy I have learnt:
 
 | Title | Technologies | Comments | Link |
 |-------|:------------:|:--------:|------|
-| Final Project - RememberAll | React-Native, Jest, Cavy | A multi-platform app to allow people to remember information about others. | [RememberAll]()|
-|Practise Project - ShowNTell | Python, Flask, Tensorflow, Object Detection API (Google) | A simple Python server storing and serving an image ot Google's new object detection API. |[ShowNTell]() |
-| Thermostat | JavaScript, Jasmine | First project in JavaScript. A simple Thermostat interface also makes use of OpenWeather API to get temperature in global locations. |[Thermostat]() |
-| Acebook - group project | Rails, Rspec. | Our own take on a well known social media platform, with fun! | [Acebook] () |
+| Final Project - RememberAll | React-Native, Jest, Cavy | A multi-platform app to allow people to remember information about others. | [RememberAll](https://github.com/dmcd84/RememberAll)|
+|Practise Project - ShowNTell | Python, Flask, Tensorflow, Object Detection API (Google) | A simple Python server storing and serving an image ot Google's new object detection API. |[ShowNTell](https://github.com/dmcd84/showNtell) |
+| Thermostat | JavaScript, Jasmine | First project in JavaScript. A simple Thermostat interface also makes use of OpenWeather API to get temperature in global locations. |[Thermostat](https://github.com/dmcd84/js-thermostat) |
+| Acebook - group project | Rails, Rspec. | Our own take on a well known social media platform, with fun! | [Acebook](https://github.com/dmcd84/acebook) |
+|Takeaway Challenge | Ruby, Rspec, Twilio | Week 2 individual challenge. A takeaway service with sms notification using Twilio. | [Takeaway-Challenge](https://github.com/dmcd84/takeaway-challenge)|
 
 #### Cranfield University (Oct 2005 to Sept 2006)
 
