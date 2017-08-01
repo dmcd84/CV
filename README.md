@@ -1,6 +1,6 @@
 ## Dominic McDonnell      
 
-[Education](#education) | [Experience](#experience) | [Skills](#skills)
+[Education](#education) | [Experience](#experience) | [Skills](#skills) | [Projects](#projects)
 
 I am a curious and deep-thinking individual who is enthused by learning (both my own and others), science, technology and sport. I have achieved a number of things both personally and professionally, but my greatest achievement is that I have facilitated the learning of hundreds of young people in my time as teacher. I am currently focussing on my own learning as a Junior Developer. With the 'tool-box' of skills, knowledge, TDD and AGILE practices from Makers I am keen to take up new role.
 
@@ -23,15 +23,23 @@ Whilst at Makers Academy this discussion, decision making and coaching centred o
 
 #### Makers Academy (May 2017 to July 2017)
 
-WATCH THIS SPACE - This is just a snippet of what I will be covering in my time at Makers Academy:
-- Independent and Reflective learner
-- Creative problem-solver
+From my time at Makers Academy I have learnt:
+- to be a better independent and reflective learner
+- to be more of a creative problem-solver
 - Pair Programming
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, JavaScript, Node.js
 - Rspec, Jasmine
 
+## Projects
+
+| Title | Technologies | Comments | Link |
+|-------|:------------:|:--------:|------|
+| Final Project - RememberAll | React-Native, Jest, Cavy | A multi-platform app to allow people to remember information about others. | [RememberAll]()|
+|Practise Project - ShowNTell | Python, Flask, Tensorflow, Object Detection API (Google) | A simple Python server storing and serving an image ot Google's new object detection API. |[ShowNTell]() |
+| Thermostat | JavaScript, Jasmine | First project in JavaScript. A simple Thermostat interface also makes use of OpenWeather API to get temperature in global locations. |[Thermostat]() |
+| Acebook - group project | Rails, Rspec. | Our own take on a well known social media platform, with fun! | [Acebook] () |
 
 #### Cranfield University (Oct 2005 to Sept 2006)
 
