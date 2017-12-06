@@ -38,7 +38,7 @@ From my time at Makers Academy I have learnt:
 |-------|:------------:|:--------:|------|
 | Final Project - RememberAll | React-Native, Jest, Cavy | A multi-platform app to allow people to remember information about others. | [RememberAll](https://github.com/dmcd84/RememberAll)|
 |Practise Project - ShowNTell | Python, Flask, Tensorflow, Object Detection API (Google) | A simple Python server storing and serving an image ot Google's new object detection API. |[ShowNTell](https://github.com/dmcd84/showNtell) |
-| Thermostat | JavaScript, Jasmine | First project in JavaScript. A simple Thermostat interface also makes use of OpenWeather API to get temperature in global locations. |[Thermostat](https://github.com/dmcd84/js-thermostat) |
+| Beaker Challenge | JavaScript, Jasmine, Mocha | Full stack JavaScript. A simple logic game inspired by the Die Hard films. Also deployed on Heroku. |[Beaker Challenge](https://github.com/dmcd84/Beaker_challenge_js) |
 | Acebook - group project | Rails, Rspec. | Our own take on a well known social media platform, with fun! | [Acebook](https://github.com/dmcd84/acebook) |
 |Takeaway Challenge | Ruby, Rspec, Twilio | Week 2 individual challenge. A takeaway service with sms notification using Twilio. | [Takeaway-Challenge](https://github.com/dmcd84/takeaway-challenge)|
 
@@ -71,6 +71,12 @@ Thesis: Development and production of a budget CDT (Conductivity, Depth and Temp
 
 
 ## Experience
+
+**Tata Consultancy Services** (Aug 2017 to present)
+*Assistant Systems Engineer / Developer*
+- Part of a Digital innovation team to produce prototype/proof of concept web applications.
+- The team engage with clients/projects early in the process to help identify pain points and solutions.
+- A variety of technology used, choosing the most appropriate language/framework for the task.
 
 **St. Richard Reynolds Catholic College** (Jan 2016 to April 2017)    
 *Teacher of Biology & Head of House*
