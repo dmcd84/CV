@@ -34,7 +34,6 @@ From my time at Makers Academy I have learnt:
 
 ## Projects
 
-<<<<<<< HEAD
 | Title | Technologies | Comments | Link | Timing
 |-------|:------------:|:--------:|:------:|------|
 | Final Project - RememberAll | React-Native, Jest, Cavy | A multi-platform app to allow people to remember information about others. | [RememberAll](https://github.com/dmcd84/RememberAll)| 2 weeks |
@@ -42,6 +41,7 @@ From my time at Makers Academy I have learnt:
 | Thermostat | JavaScript, Jasmine | First project in JavaScript. A simple Thermostat interface also makes use of OpenWeather API to get temperature in global locations. |[Thermostat](https://github.com/dmcd84/js-thermostat) | 2 days |
 | Acebook - group project | Rails, Rspec. | Our own take on a well known social media platform, with fun! | [Acebook](https://github.com/dmcd84/acebook) | 1 week |
 |Takeaway Challenge | Ruby, Rspec, Twilio | Week 2 individual challenge. A takeaway service with sms notification using Twilio. | [Takeaway-Challenge](https://github.com/dmcd84/takeaway-challenge)| 2 days|
+
 #### Cranfield University (Oct 2005 to Sept 2006)
 
 #### *MSc in Offshore and Ocean Technology, specialising in Diving and Underwater Technology*
