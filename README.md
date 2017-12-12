@@ -34,6 +34,7 @@ From my time at Makers Academy I have learnt:
 
 ## Projects
 
+<<<<<<< HEAD
 | Title | Technologies | Comments | Link | Timing
 |-------|:------------:|:--------:|:------:|------|
 | Final Project - RememberAll | React-Native, Jest, Cavy | A multi-platform app to allow people to remember information about others. | [RememberAll](https://github.com/dmcd84/RememberAll)| 2 weeks |
@@ -41,7 +42,6 @@ From my time at Makers Academy I have learnt:
 | Thermostat | JavaScript, Jasmine | First project in JavaScript. A simple Thermostat interface also makes use of OpenWeather API to get temperature in global locations. |[Thermostat](https://github.com/dmcd84/js-thermostat) | 2 days |
 | Acebook - group project | Rails, Rspec. | Our own take on a well known social media platform, with fun! | [Acebook](https://github.com/dmcd84/acebook) | 1 week |
 |Takeaway Challenge | Ruby, Rspec, Twilio | Week 2 individual challenge. A takeaway service with sms notification using Twilio. | [Takeaway-Challenge](https://github.com/dmcd84/takeaway-challenge)| 2 days|
-
 #### Cranfield University (Oct 2005 to Sept 2006)
 
 #### *MSc in Offshore and Ocean Technology, specialising in Diving and Underwater Technology*
@@ -70,6 +70,12 @@ Thesis: Development and production of a budget CDT (Conductivity, Depth and Temp
 
 
 ## Experience
+
+**Tata Consultancy Services** (Aug 2017 to present)
+*Assistant Systems Engineer / Developer*
+- Part of a Digital innovation team to produce prototype/proof of concept web applications.
+- The team engage with clients/projects early in the process to help identify pain points and solutions.
+- A variety of technology used, choosing the most appropriate language/framework for the task.
 
 **St. Richard Reynolds Catholic College** (Jan 2016 to April 2017)    
 *Teacher of Biology & Head of House*
