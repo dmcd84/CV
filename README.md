@@ -1,6 +1,6 @@
 ## Dominic McDonnell      
 
-[Education](#education) | [Experience](#experience) | [Skills](#skills) | [Projects](#projects)
+[Education](#education) | [Experience](#experience) | [Skills](#skills) | [Projects](#projects) 
 
 I am a curious and deep-thinking individual who is enthused by learning (both my own and others), science, technology and sport. I have achieved a number of things both personally and professionally, but my greatest achievement is that I have facilitated the learning of hundreds of young people in my time as teacher. I am currently focussing on my own learning as a Junior Developer. With the 'tool-box' of skills, knowledge, TDD and AGILE practices from Makers I am keen to take up new role.
 
@@ -35,7 +35,7 @@ From my time at Makers Academy I have learnt:
 ## Projects
 
 | Title | Technologies | Comments | Link | Timing
-|-------|:------------:|:--------:|:------:|------|
+|:-------:|:------------:|:--------:|:------:|:------:|
 | Final Project - RememberAll | React-Native, Jest, Cavy | A multi-platform app to allow people to remember information about others. | [RememberAll](https://github.com/dmcd84/RememberAll)| 2 weeks |
 |Practise Project - ShowNTell | Python, Flask, Tensorflow, Object Detection API (Google) | A simple Python server storing and serving an image ot Google's new object detection API. |[ShowNTell](https://github.com/dmcd84/showNtell) | 1 week |
 | Thermostat | JavaScript, Jasmine | First project in JavaScript. A simple Thermostat interface also makes use of OpenWeather API to get temperature in global locations. |[Thermostat](https://github.com/dmcd84/js-thermostat) | 2 days |
